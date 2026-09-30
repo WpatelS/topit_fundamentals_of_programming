@@ -1,1 +1,0 @@
-# topit_fundamentals_of_programming
