@@ -84,7 +84,7 @@ print(f"{course}: {hours} часов")
     ```python
     f"{course}: {hours} часов"
     ```
-    3. 
+    5. 
     ```python
     3
     #если в задании имеется в виду вся программа
